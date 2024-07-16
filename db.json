@@ -1,0 +1,23 @@
+{
+  "products": [
+  ],
+  "categories":[
+    {"id":1, "name":"Áo polo"},
+    {"id":2, "name":"Áo thun"},
+    {"id":3, "name":"Áo Sơ Mi"},
+    {"id":4, "name":"Quần jean"}
+  ],
+  "sizes":[
+    {"id":1, "name":"S"},
+    {"id":2, "name":"M"},
+    {"id":3, "name":"L"},
+    {"id":4, "name":"XL"}
+  ],
+  "colors":[
+    {"id":1, "name":"Đen"},
+    {"id":2, "name":"Trắng"},
+    {"id":3, "name":"Đỏ"},
+    {"id":4, "name":"Xanh"}
+  ],
+  "users": []
+}
